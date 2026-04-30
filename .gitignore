@@ -1,0 +1,19 @@
+# Ignore ML models (IMPORTANT)
+models/
+*.zip
+*.safetensors
+*.bin
+*.pt
+
+# Ignore environment
+.env
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Streamlit config
+.streamlit/
+
+# VS Code
+.vscode/
